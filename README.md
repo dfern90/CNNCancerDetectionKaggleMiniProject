@@ -1,0 +1,2 @@
+# CNNCancerDetectionKaggleMiniProject
+For this mini-project, we will be creating an algorithm to identify metastatic cancer by examining image patches from larger digital pathology scans. We will accomplish this task by utilizing a convolutional neural network (CNN), a feed-forward neural network that learns feature engineering. We will compare this model to a slightly deeper CNN and a forward feed neural network (FNN). 
